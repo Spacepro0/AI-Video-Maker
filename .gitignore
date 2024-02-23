@@ -1,0 +1,8 @@
+node_modules
+venv
+__pycache__
+.env
+.vscode
+files/bg/*
+files/tmp/*
+files/output/*
